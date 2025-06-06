@@ -25,3 +25,5 @@ Commit #12 during squash activity
 Commit #13 during squash activity
 
 Commit #13 first feature2 commit
+
+Commit #13.2 feature2 commit
