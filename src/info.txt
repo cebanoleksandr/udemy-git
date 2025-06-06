@@ -30,3 +30,6 @@ Commit #13.2 feature2 commit
 
 Commit #13.3 feature2 commit
 Commit #14 One more commit
+Commit #13.1 Feature 3 commit 1
+
+Commit #13.2 Feature 3 commit 2
